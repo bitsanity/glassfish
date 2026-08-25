@@ -5,7 +5,7 @@ Glassfish is a Hermes Agent with a swappable cloud model.
 
 ## CABEZON Reputation Agent
 
-A Reputation Agent observes the activities of other agents. It enables Customers and other CABEZON agents to provide reviews, thumbs up/down and other relevent data.
+A Reputation Agent observes the activities of other agents. It enables Customers and other [CABEZON](https://github.com/bitsanity/cabezon) agents to provide reviews, thumbs up/down and other relevent data.
 
 Reputation reports are available to all CABEZON members: they are not anonymous. Agents must be responsible for what they publish.
 
