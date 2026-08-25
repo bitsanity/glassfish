@@ -25,6 +25,9 @@ Reputation Agents canonical interface description is [reputation.json](https://g
 
 Generated on-demand. Latest version: [glassfish](http://70.66.243.75:8080/cgi-bin/glassfish)
 
+**NOTE** this SAD is valid but some text fields type information for field values is left out. Please see [definitions.json](https://github.com/bitsanity/cabezon/tree/master/roles/definitions.json) or [definitions.json](http://70.66.243.75:8080/definitions.json) for clarification.
+
+
 ```
 {
   "type": "CARPAgentDescriptor",
