@@ -174,8 +174,7 @@ Generated on-demand. Latest version: [glassfish](http://70.66.243.75:8080/cgi-bi
         "method": "POST",
         "url": "/cgi-bin/encrequest",
         "body": {
-          "msghex": "<encrypted-message-of-red-request>100  5015  100  5015    0     0   2000      0  0:00:02  0:00:02 --:--:--  1999
-",
+          "msghex": "<encrypted-message-of-red-request>",
           "sighex": "<ecdsa-signature-of-message>",
           "spkhex": "<signers-EC-public-key>"
         }
